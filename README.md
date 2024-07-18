@@ -1,4 +1,4 @@
-# 3D Web Developer Portfolio in React Vİte
+# 3D Web Developer Portfolio in React Vite
 
 ## Description
 
